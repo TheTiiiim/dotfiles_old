@@ -1,5 +1,5 @@
 
-wal -a 90 -i ~/Pictures/wallpapers/wallpaper2.jpg 
+~/.wall
 
 [[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
 xrdb -merge ~/.cache/wal/colors.Xresources 
