@@ -1,5 +1,5 @@
 
-~/.wall
+~/.wal
 
 [[ -f ~/.Xresources ]] && xrdb -merge ~/.Xresources
 xrdb -merge ~/.cache/wal/colors.Xresources 
