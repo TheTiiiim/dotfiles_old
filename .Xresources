@@ -1,8 +1,8 @@
-urxvt.font: xft:iosevka:size=10, ttf:ipamp:size=8:
+urxvt.font: xft:iosevka:size=10
 
-urxvt.depth: 32
 urxvt.scrollBar: False
 
 dwm.font: xft:iosevka:size=10
 dwm.resizehints: 0
- 
+
+dmenu.font: xft:iosevka:size=10 
